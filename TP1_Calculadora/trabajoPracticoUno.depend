@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1535938575 source:c:\users\mathias\desktop\02. clases\tp1\trabajopracticouno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"UTN_INPUT.h"
+
+1535933299 c:\users\mathias\desktop\02. clases\tp1\trabajopracticouno\utn_input.h
+
+1535936609 source:c:\users\mathias\desktop\02. clases\tp1\trabajopracticouno\utn_input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"UTN_INPUT.h"
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1538778263 source:c:\users\mathias\desktop\trabajopracticodos_arreglo\utn_inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"UTN_INPUTS.h"
+
+1538778282 c:\users\mathias\desktop\trabajopracticodos_arreglo\utn_inputs.h
+
+1538779509 source:c:\users\mathias\desktop\trabajopracticodos_arreglo\main.c
+	"ArrayEmployees.h"
+
+1538779491 c:\users\mathias\desktop\trabajopracticodos_arreglo\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"UTN_INPUTS.h"
+
+1538779491 source:c:\users\mathias\desktop\trabajopracticodos_arreglo\arrayemployees.c
+	"ArrayEmployees.h"
+
+1538779491 source:c:\users\mathias\desktop\trabajopracticodos\arrayemployees.c
+	"ArrayEmployees.h"
+
+1538779491 c:\users\mathias\desktop\trabajopracticodos\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"UTN_INPUTS.h"
+
+1538778282 c:\users\mathias\desktop\trabajopracticodos\utn_inputs.h
+
+1538779509 source:c:\users\mathias\desktop\trabajopracticodos\main.c
+	"ArrayEmployees.h"
+
+1538778263 source:c:\users\mathias\desktop\trabajopracticodos\utn_inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"UTN_INPUTS.h"
+
