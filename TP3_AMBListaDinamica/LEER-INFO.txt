@@ -1,0 +1,12 @@
+[TP3-CARPETA 32 BITS]
+
+Por defecto esta la lista "data.csv" que venia en la cascara de TP3 y agregue "dataBinario.dat".
+
+En el caso de querer validar la existencia de ese archivo borrarlo del directorio, de lo contrario va a levantar
+el archivo "data.csv" del direcotrio en modo texto (OPCION 1).
+
+Incluí por defecto la lista "dataBinario.dat". Que fue levantar el "data.csv" en modo texto y guardalo en modo binario.
+En el caso de querer validar su existencia borrarlo del directorio.
+
+CARGA DE ID MANUAL. Pregunte al docente y respondio que era opcional, no mencionaba el ID automatico pero esta 
+validado que no se repita los ID.
